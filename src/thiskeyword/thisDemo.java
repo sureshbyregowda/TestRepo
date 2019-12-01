@@ -13,6 +13,7 @@ public class thisDemo {
 		System.out.println(a);	
 		System.out.println("commiting changes");	
 		
+		System.out.println("commiting changes second time");	
 	}
 
 	public static void main(String[] args) {
