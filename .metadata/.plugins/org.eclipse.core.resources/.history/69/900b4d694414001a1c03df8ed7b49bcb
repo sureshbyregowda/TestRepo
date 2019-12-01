@@ -1,0 +1,25 @@
+package superkeyword;
+
+public class parent {
+	
+	String name = "Suresh from Parent Class";
+	
+	public parent()
+	{
+		
+		System.out.println("parent class constructor");
+		System.out.println("commit in TestRepo1");
+	}
+	
+	public void getData()
+	{
+		
+		System.out.println("I'm in Parent class");
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

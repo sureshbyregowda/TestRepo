@@ -11,6 +11,8 @@ public class thisDemo {
 		System.out.println(a);
 		System.out.println(a);
 		System.out.println(a);	
+		System.out.println("commiting changes");	
+		
 	}
 
 	public static void main(String[] args) {
