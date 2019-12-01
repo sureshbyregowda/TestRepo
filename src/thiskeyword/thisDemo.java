@@ -14,7 +14,9 @@ public class thisDemo {
 		System.out.println("commiting changes");	
 		
 		System.out.println("commiting changes second time");	
-		System.out.println("commiting changes thrid time");			
+		System.out.println("commiting changes thrid time");		
+		
+		System.out.println("Hello GM");		
 	}
 
 	public static void main(String[] args) {
