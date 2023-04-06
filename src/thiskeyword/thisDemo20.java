@@ -1,6 +1,6 @@
 package thiskeyword;
 
-public class thisDemo {	
+public class thisDemo20 {	
 	
 	int a =2;	
 	public void getData()
@@ -17,14 +17,10 @@ public class thisDemo {
 		System.out.println("commiting changes thrid time");		
 		
 		System.out.println("Hello GM");		
-		
-		System.out.println("Hello checking from dev branch");
-		
-		
 	}
 
 	public static void main(String[] args) {
-        thisDemo td = new thisDemo();        
+        thisDemo20 td = new thisDemo20();        
         td.getData();
 	}
 }

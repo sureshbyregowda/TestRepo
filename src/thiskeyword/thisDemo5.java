@@ -1,6 +1,6 @@
 package thiskeyword;
 
-public class thisDemo {	
+public class thisDemo5 {	
 	
 	int a =2;	
 	public void getData()
@@ -24,7 +24,7 @@ public class thisDemo {
 	}
 
 	public static void main(String[] args) {
-        thisDemo td = new thisDemo();        
+        thisDemo5 td = new thisDemo5();        
         td.getData();
 	}
 }
